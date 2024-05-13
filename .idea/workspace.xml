@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51d14980-b80c-49b5-a2a5-bc1e9f632bb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/JwtAuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/PasswordConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/RestExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/UserAuthProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/UserAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/controller/MessagesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/dtos/CredentialsDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/dtos/ErrorDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/dtos/MessageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/dtos/SignUpDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/dtos/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/enums/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/exceptions/AppException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/mappers/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/services/UserService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3bec4e59-3d71-4325-96ae-b4cf710c4c35" />
+        <option name="url" value="https://github.com/ASKR04/Financial-Management.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2fw0AtreZqdWEUHV3365Kaxccx2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;jbr-17&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.lims.userauthservice.dtos" />
+      <recent name="com.lims.userauthservice.mappers" />
+      <recent name="com.lims.userauthservice.entities" />
+      <recent name="com.lims.userauthservice.repositories" />
+      <recent name="com.lims.userauthservice.exceptions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UserAuthServiceApplication">
+    <configuration name="UserAuthServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lims.userauthservice.UserAuthServiceApplication" />
+      <module name="user-auth-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lims.userauthservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in user-auth-service" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-auth-service" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserAuthServiceApplication" />
+        <item itemvalue="JUnit.All in user-auth-service" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51d14980-b80c-49b5-a2a5-bc1e9f632bb4" name="Changes" comment="" />
+      <created>1714696695344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714696695344</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lims_microservice$UserAuthServiceApplication.ic" NAME="UserAuthServiceApplication Coverage Results" MODIFIED="1715188050949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lims.userauthservice.*</FILTER>
+    </SUITE>
+  </component>
+</project>
