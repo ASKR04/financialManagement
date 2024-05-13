@@ -4,37 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51d14980-b80c-49b5-a2a5-bc1e9f632bb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/JwtAuthFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/PasswordConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/RestExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/UserAuthProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/UserAuthenticationEntryPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/controller/AuthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/controller/MessagesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/dtos/CredentialsDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/dtos/ErrorDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/dtos/MessageDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/dtos/SignUpDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/dtos/UserDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/entities/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/enums/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/exceptions/AppException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/mappers/UserMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/repositories/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-auth-service/src/main/java/com/lims/userauthservice/services/UserService.java" afterDir="false" />
+    <list default="true" id="51d14980-b80c-49b5-a2a5-bc1e9f632bb4" name="Changes" comment="First commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +109,21 @@
       <option name="presentableId" value="Default" />
       <updated>1714696695344</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1715619798058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715619798058</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <created>1715619965698</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715619965698</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +136,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/lims_microservice$UserAuthServiceApplication.ic" NAME="UserAuthServiceApplication Coverage Results" MODIFIED="1715188050949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
