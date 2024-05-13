@@ -1,0 +1,35 @@
+.custom-btn {
+    background-color: white;
+    color: blue;
+    border: 1px solid #ddd; /* Added border */
+    padding: 50px 50px; /* Increased padding */
+    font-size: 20px; /* Increased font size */
+    cursor: pointer;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .custom-btn:hover {
+    background-color: skyblue;
+    color: white;
+  }
+  
+  .logout-btn {
+    position: absolute;
+    top: 85px;
+    right: 10px;
+    background-color: #f5f5f5; /* Lighter background for sober look */
+    color: #333; /* Darker text for contrast */
+    border: none; /* Removed border for minimalism */
+    padding: 10px 15px;
+    font-size: 14px; /* Smaller font size */
+    text-decoration: none; /* Removed underline for minimalism */
+    cursor: pointer;
+    border-radius: 3px; /* Reduced border radius for minimalism */
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .logout-btn:hover {
+    background-color: #ddd; /* Slightly darker background on hover */
+    color: #000; /* Black text on hover for better contrast */
+  }
